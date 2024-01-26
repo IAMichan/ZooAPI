@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZooAPI", "ZooAPI.csproj", "{CD77674C-BAB0-4540-B172-3F2BEF6F9CD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C00E4B4F-4809-42CC-90CE-15E7E57FD64D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD77674C-BAB0-4540-B172-3F2BEF6F9CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD77674C-BAB0-4540-B172-3F2BEF6F9CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD77674C-BAB0-4540-B172-3F2BEF6F9CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD77674C-BAB0-4540-B172-3F2BEF6F9CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70150A80-3FAF-4AF0-8CC9-639BBEC3346C}
+	EndGlobalSection
+EndGlobal
